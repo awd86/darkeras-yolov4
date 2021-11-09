@@ -1,0 +1,12 @@
+#############################################################################
+# Alex Denton, 9 Nov 2021, AE4824 @ NPS
+#
+#############################################################################
+
+Starting on a new machine
+1. Clone from Git (probably done already)
+2. Install dependencies:    pip install -r requirements.txt
+
+Launching the notebook
+1. Launch Jupyter Notebook: jupyter notebook
+2. Select "ChaCha-yolov4.ipynb" and launch
